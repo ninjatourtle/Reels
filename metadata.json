@@ -1,0 +1,8 @@
+{
+  "name": "ComixReel AI",
+  "description": "Transform your comic books into high-quality social media Reels with AI analysis, scriptwriting, and video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
